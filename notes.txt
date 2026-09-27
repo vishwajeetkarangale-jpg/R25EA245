@@ -1,0 +1,2 @@
+Git and GitHub assignment
+This repository is created for my GitHub assignment.

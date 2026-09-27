@@ -1,1 +1,1 @@
-# R25EA245
+Hi, I’m Vishwajeet, a 2nd-year Artificial Intelligence and Machine Learning (AIML) student at REVA University, Bangalore. I’m currently building my skills in Python, programming fundamentals, data structures, machine learning, and software development. I enjoy working on projects, participating in hackathons, and exploring new technologies while continuously improving my problem-solving and development skills.
